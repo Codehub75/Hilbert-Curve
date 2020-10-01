@@ -3,9 +3,9 @@ import math
 import random
 
 tut=turtle.Turtle()
-tut.screen.bgcolor("yellow")
+tut.screen.bgcolor("black")
 tut.screen.colormode(255)
-tut.pencolor(0,0,255)
+tut.pencolor(255,255,255)
 
 order=5
 rotate=90
